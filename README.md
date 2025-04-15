@@ -1,4 +1,4 @@
-# pdf-merge-compressor
+# PDF-MERGE-COMPRESSOR
 
 **pdf-merge-compressor**는 REST API를 통해 폴더 경로를 입력받아, 해당 폴더 내의 PDF 파일들을 하나로 병합(Merge)하고, 병합된 PDF 파일을 다운로드할 수 있도록 제공하는 서비스입니다.
 
@@ -9,8 +9,8 @@
 - (선택) 병합된 PDF 파일 압축 기능
 
 ## Requirements
-- Java 3.x (예시)
-- Flask (또는 FastAPI 등)
+- Java 17 version, springboot 3.x.x (예시)
+- RestApi
 - iText
 
 ## API
