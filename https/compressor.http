@@ -1,0 +1,8 @@
+### compressor PDF
+POST localhost:8080/merge/compressor
+Content-Type: application/json
+
+{
+  "folderPath": "/data/app/upload/pdf",
+  "outputPath": "/data/app/upload/compressor/compressor.pdf"
+}
