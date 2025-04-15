@@ -15,7 +15,7 @@
 
 ## API
 ### 1. PDF 병합 요청
-- **Endpoint:** `/merge`
+- **Endpoint:** `/merge/compressor`
 - **Method:** `POST`
 - **Content-Type:** `application/json`
 
